@@ -4,15 +4,15 @@
 
 #Install htmltools
 
-install.packages("htmltools")
-library(htmltools)
+  install.packages("htmltools")
+  library(htmltools)
 
 
 #Install BiocManager
 
-if (!requireNamespace("BiocManager", quietly = TRUE))
-  install.packages("BiocManager")
-BiocManager::install(version = "3.10")
+  if (!requireNamespace("BiocManager", quietly = TRUE))
+   install.packages("BiocManager")
+  BiocManager::install(version = "3.10")
 
 
 #Use BiocManager to install DESeq2
