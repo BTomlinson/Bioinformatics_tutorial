@@ -1,4 +1,4 @@
-﻿ID,dex,celltype,geoID
+ID,condition,celltype,geoID
 AB5075_UT1,untreated,AB5075,A
 AB5075_T1,treated,AB5075,B
 AB5075_UT2,untreated,AB5075,C
