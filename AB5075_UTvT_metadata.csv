@@ -1,3 +1,7 @@
-﻿ID,dex,celltype,geoID
-AB5075_UT,untreated,AB5075,x
-AB5075_T,treated,AB5075,y
+ID,dex,celltype,geoID
+AB5075_UT1,untreated,AB5075,x
+AB5075_T1,treated,AB5075,y
+AB5075_UT2,untreated,AB5075,x
+AB5075_T2,treated,AB5075,y
+AB5075_UT3,untreated,AB5075,x
+AB5075_T3,treated,AB5075,y
