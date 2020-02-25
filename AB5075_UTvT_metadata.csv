@@ -1,7 +1,7 @@
 ID,condition,celltype,geoID
-AB5075_UT1,untreated,AB,A
-AB5075_T1,treated,AB,B
-AB5075_UT2,untreated,AB,C
-AB5075_T2,treated,AB,D
-AB5075_UT3,untreated,AB,E
-AB5075_T3,treated,AB,F
+AB_UT1,untreated,AB,A
+AB_T1,treated,AB,B
+AB_UT2,untreated,AB,C
+AB_T2,treated,AB,D
+AB_UT3,untreated,AB,E
+AB_T3,treated,AB,F
