@@ -2,7 +2,8 @@
 
 #First we need some tools:
 
-#Install htmltools \n
+#Install htmltools
+
 install.packages("htmltools")
 library(htmltools)
 
