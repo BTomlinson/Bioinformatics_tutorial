@@ -149,15 +149,15 @@ head(DESeqResults)
 
 par(mfrow=c(2,3))
 
-plotCounts(DEDataSet, gene="adeA", intgroup="condition")
+plotCounts(DEDataSet, gene="adeT", intgroup="condition")
 
-plotCounts(DEDataSet, gene="adeB", intgroup="condition")
+plotCounts(DEDataSet, gene="ABUW_0123", intgroup="condition")
 
-plotCounts(DEDataSet, gene="adeC", intgroup="condition")
+plotCounts(DEDataSet, gene="ABUW_0302", intgroup="condition")
 
-plotCounts(DEDataSet, gene="ABUW_1931", intgroup="condition")
+plotCounts(DEDataSet, gene="ABUW_0255", intgroup="condition")
 
-plotCounts(DEDataSet, gene="ABUW_1318", intgroup="condition")
+plotCounts(DEDataSet, gene="ABUW_2391", intgroup="condition")
 
 
 #To further decipher the data, I recommend blasting the genes with significantly altered expression to determine what their function is! Or, look into additional tools like PANTHER (http://www.pantherdb.org) or KEGG (https://www.kegg.jp)!
